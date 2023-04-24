@@ -1,0 +1,15 @@
+.navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px auto;
+  border-bottom: 1px solid #6b6a6a;
+  padding: 10px;
+  height: 80px;
+}
+.logo a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
